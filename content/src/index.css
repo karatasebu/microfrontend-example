@@ -1,0 +1,13 @@
+.content {
+  margin-top: 50px;
+}
+.title,
+.text {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #3fb27f;
+}
+.text {
+  max-width: 800px;
+  margin: auto;
+}
